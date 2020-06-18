@@ -1,0 +1,10 @@
+tags
+index.sh
+include/version.h
+build
+Debug
+.project
+Release
+core
+.settings/
+src/version.h
